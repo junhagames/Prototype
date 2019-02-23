@@ -1,6 +1,6 @@
 ﻿using Nancy;
 
-namespace Test.Main
+namespace Server.src.Test.Main
 {
     class SampleModule : NancyModule
     {
